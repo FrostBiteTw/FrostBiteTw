@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FrostBiteTw
+- 👀 I’m interested in music, making videogames, and dong cool prgramming in general. 
+- 🌱 I’m currently learning how to create 3d modeling within python to create a low polly videogame without an engine.
